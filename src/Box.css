@@ -1,0 +1,11 @@
+.Box {
+    display: inline-block;
+    margin: 1rem 0 0 1rem;
+}
+
+.Box button {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    position: relative;
+}

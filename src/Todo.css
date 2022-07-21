@@ -1,0 +1,6 @@
+.Todo button {
+    background-color: red;
+    color: white;
+    margin-left: 3px;
+    cursor: pointer;
+}

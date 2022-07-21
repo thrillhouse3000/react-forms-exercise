@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="BoxList"
+    >
+      <h2>
+        Color Box Maker
+      </h2>
+      <form>
+        <label
+          for="color"
+        >
+          Color
+        </label>
+        <input
+          id="color"
+          name="color"
+          type="text"
+          value=""
+        />
+        <label
+          for="width"
+        >
+          Width
+        </label>
+        <input
+          id="width"
+          name="width"
+          type="width"
+          value=""
+        />
+        <label
+          for="height"
+        >
+          Height
+        </label>
+        <input
+          id="height"
+          name="height"
+          type="height"
+          value=""
+        />
+        <button>
+          Add Box
+        </button>
+      </form>
+      <div
+        class="BoxList-container"
+      />
+    </div>
+    <div
+      class="TodoList"
+    >
+      <h2>
+        Todo List
+      </h2>
+      <form>
+        <label
+          for="todo"
+        >
+          Todo
+        </label>
+        <input
+          id="todo"
+          name="todo"
+          placeholder="Enter a Todo"
+          type="text"
+          value=""
+        />
+        <button>
+          Add Todo
+        </button>
+      </form>
+      <div
+        class="TodoList-list"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
